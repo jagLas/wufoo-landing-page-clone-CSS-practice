@@ -73,12 +73,16 @@
         width: fit-content;
     }
 
+    .nav__logo {
+        margin-right: 0px;
+    }
+
     .nav__middle {
         display: none;
     }
 
     .nav__right {
-        right: 33px;
+        right: 16px;
     }
 
     .menu {

@@ -95,4 +95,19 @@
     .sign-up-banner > .container {
         padding: 56px 16px;
     }
+
+    .sign-up-banner .btn {
+        margin-top: 16px;
+    }
+
+    .sign-up-banner > .container {
+        margin: 0px auto;
+        padding: 56px 16px;
+        min-height: 179px;
+        height: unset;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        max-width: 1200px;
+    }
 }

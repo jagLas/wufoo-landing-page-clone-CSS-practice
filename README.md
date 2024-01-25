@@ -1,4 +1,7 @@
 # wufoo-landing-page-clone-CSS-practice
+
+### Deployed at [https://jaglas-wufoo-clone-practice.netlify.app/](https://jaglas-wufoo-clone-practice.netlify.app/)
+
 This practice was to copy the landing page of a provided site for App Academy. The goal was to be as pixel perfect as possible.
 This practice aims to achieve that as closely as possible, but there are some limitations:
 
